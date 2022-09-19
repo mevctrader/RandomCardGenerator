@@ -14,3 +14,7 @@ body {
 #pintaDown {
   transform: rotate(180deg);
 }
+#valor {
+  font-size: 400%;
+  font-weight: bolder;
+}
